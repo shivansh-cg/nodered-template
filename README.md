@@ -1,4 +1,3 @@
 # nodered-template
 
-# Attention!!
-# Not yet complete!!
+`docker-compose -f ./config/docker-compose.dev.yml up -d`
